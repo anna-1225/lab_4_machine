@@ -1,0 +1,12 @@
+
+.venv
+.git
+__pycache__
+mlflow-data
+mlruns
+mlartifacts
+mlflow.db
+screenshots
+data
+requirements.lock.txt
+*.zip

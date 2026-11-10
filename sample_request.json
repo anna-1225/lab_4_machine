@@ -1,0 +1,49 @@
+{
+  "instances": [
+    {
+      "age": 59.0,
+      "sex": 1.0,
+      "cp": 4.0,
+      "trestbps": 138.0,
+      "chol": 271.0,
+      "fbs": 0.0,
+      "restecg": 2.0,
+      "thalach": 182.0,
+      "exang": 0.0,
+      "oldpeak": 0.0,
+      "slope": 1.0,
+      "ca": 0.0,
+      "thal": 3.0
+    },
+    {
+      "age": 66.0,
+      "sex": 1.0,
+      "cp": 4.0,
+      "trestbps": 160.0,
+      "chol": 228.0,
+      "fbs": 0.0,
+      "restecg": 2.0,
+      "thalach": 138.0,
+      "exang": 0.0,
+      "oldpeak": 2.3,
+      "slope": 1.0,
+      "ca": 0.0,
+      "thal": 6.0
+    },
+    {
+      "age": 51.0,
+      "sex": 0.0,
+      "cp": 3.0,
+      "trestbps": 130.0,
+      "chol": 256.0,
+      "fbs": 0.0,
+      "restecg": 2.0,
+      "thalach": 149.0,
+      "exang": 0.0,
+      "oldpeak": 0.5,
+      "slope": 1.0,
+      "ca": 0.0,
+      "thal": 3.0
+    }
+  ]
+}
